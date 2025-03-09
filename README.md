@@ -8,7 +8,7 @@ Your task is to create a portfolio using your new React skills, which will help 
 
 You’ll deploy this application to Netlify. Follow the instructions in the Git Guide or consult the [Docs on Netlify](https://vitejs.dev/guide/static-deploy.html#netlify) to create a build that you can deploy.
 
-## User Story
+## User Story.
 
 ```md
 AS AN employer looking for candidates with experience building single-page applications
